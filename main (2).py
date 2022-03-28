@@ -22,5 +22,5 @@ h = Horse() #horse object created
 myFunction(h)
 
 c = Cat()  #this will give error 
-myfunction(c) 
+myFunction(c) 
 
